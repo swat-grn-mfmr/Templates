@@ -11,7 +11,7 @@ For the streamlined and standardized capturing of official landings from commerc
 
 This repo contains templates for use by MFMR Officials towards recording landings from the respective Namibian fisheries.
 
-### <u> -> Landings Templates (standardized to date)</u>:
+### -> <u>Landings Templates (standardized to date)</u>:
   1. Large Pelagics ( target: **_ICCAT Species - Tunas etc._** )  
   2. Spiny Rock Lobster ( target: **_Jasus lalandii_** )
 
