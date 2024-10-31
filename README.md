@@ -3,7 +3,7 @@
 
 This repo aims to standardize the forms and documents used for regular research, monitoring and compliance activities within the Ministry of Fisheries & Marine Resources (MFMR) - for ALL departments applicable.
 
-Documents (i.e. templates) hosted here should be properly categorized and each category briefly described as follows ...
+Documents (templates) hosted here should be properly categorized and each category briefly described as follows ...
 
 
 ##  LANDINGS
